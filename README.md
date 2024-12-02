@@ -1,4 +1,7 @@
 # Emergency Room Dashboard  
+
+![Hospital ER Dashboard Preview](images/dashboard-preview.png)  
+
 An interactive Power BI dashboard analyzing emergency room data to provide actionable insights for healthcare professionals.  
 
 ## Features  
@@ -31,7 +34,7 @@ The dashboard uses a custom color palette: [View Palette](https://color.adobe.co
 - `images/`: Contains screenshots or previews of the dashboard.  
 
 ## Contributing  
-Feel free to fork the repository and suggest improvements or new features!
+Feel free to fork the repository and suggest improvements or new features!  
 
 ## License  
 This repository is under the MIT License.  
